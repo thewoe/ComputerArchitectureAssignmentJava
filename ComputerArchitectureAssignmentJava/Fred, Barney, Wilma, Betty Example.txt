@@ -1,0 +1,10 @@
+fred = 0;
+barney = 0;
+wilma = 31;
+betty = 31;
+barney = 21;
+fred = 35;
+wilma = 62;
+betty = 35;
+
+5+3+7+4+9+10 = 38
